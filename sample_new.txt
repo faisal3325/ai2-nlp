@@ -1,2 +1,1 @@
-Test Faisal.
-Test Khan.
+This is a test file for Faisal.
